@@ -1,0 +1,108 @@
+.div1
+{
+background-color: #e4e4e4;
+margin:0;
+margin-top: 50px;
+
+
+}
+
+.div2{
+  background-color: white;
+  margin-top: 100px;
+
+
+
+}
+.div3
+{
+background-color:  white;
+font-weight: normal;
+color: #12947f;
+margin: 0;
+}
+.div4{
+position: relative;
+top: 30px;
+right:600px;
+margin-right: 0;
+background-color: white;
+
+}
+body{
+  padding-top: 100px;
+  padding-bottom: 150px;
+background-color: white;
+margin:0;
+text-align:center;
+font-family: cursive, sans-serif;
+font-size: 26px;
+
+}
+h1{
+  color: #12947f;
+  font-size: 90px;
+  font-family: 'Dancing Script', cursive,serif;
+  margin: 0;
+}
+h3{
+  margin: 0;
+  font-size: 30px;
+  color: #12947f;
+}
+h2{
+  margin:0;
+}
+h4{
+  margin:0;
+}
+.topcloud{
+  position: relative;
+left:200px;
+}
+.midcloud{
+position: relative;
+right: 300px;
+top: 40px;
+
+}
+
+.mountain{
+  position: relative;
+  top: 50px;
+  height: 70%;;
+}
+.boy{
+float: right;
+position: relative;
+right: 400px;
+}
+.insta{
+position: relative;
+left: 1000px;
+display: inline-block;
+}
+.footer{
+  display: inline-block;
+  position: relative;
+  left:150px;
+}
+.para
+{margin-top: 50px;
+ position: relative;
+ top: 50px;
+}
+.test{
+clear: right;
+}
+.below-line{
+  margin-top: 100px;
+  border: none;
+  border-top-style: dotted;
+  background-color:white;
+  border-color: grey;
+  width: 40%;
+  border-top-width: 10px;
+
+
+}
